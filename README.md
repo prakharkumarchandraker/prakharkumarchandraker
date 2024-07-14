@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Making repositories of things i have been learning<br>👯 I’m looking to collaborate on Python and java open-source projects<br>🌱 I’m currently learning Java and Python <br>⚡ I'm a Computer science student currently in 8th semester 
+⚡ I'm a Computer Science Engineer<br>🔭 I’m currently working on Making repositories of things I have been learning<br>👯 I’m looking to collaborate on FullStack WebDev and C++ open-source projects<br>🌱 I’m currently learning System Design, DSA and WebDev 
 
 
 ## 🌐 Socials:
